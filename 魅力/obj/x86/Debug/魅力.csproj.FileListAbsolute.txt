@@ -1,0 +1,326 @@
+e:\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+e:\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\魅力\魅力\bin\Debug\魅力.exe.config
+E:\魅力\魅力\bin\Debug\魅力.exe
+E:\魅力\魅力\bin\Debug\魅力.pdb
+E:\魅力\魅力\bin\Debug\DevComponents.DotNetBar2.dll
+E:\魅力\魅力\obj\x86\Debug\魅力.exe
+E:\魅力\魅力\obj\x86\Debug\魅力.pdb
+E:\魅力\魅力\bin\Debug\MyControl.dll
+E:\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+G:\魅力\魅力\bin\Debug\魅力.exe.config
+G:\魅力\魅力\obj\x86\Debug\魅力.exe
+G:\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\bin\Debug\魅力.exe
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\bin\Debug\魅力.pdb
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\bin\Debug\MyControl.dll
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+C:\Documents and Settings\Administrator\桌面\魅力\魅力\obj\x86\Debug\魅力.FrmSong.resources
+C:\Users\Administrator\Desktop\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力\魅力\bin\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力\魅力\bin\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力\魅力\bin\Debug\MyControl.dll
+C:\Users\Administrator\Desktop\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\魅力.FrmSong.resources
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP-LIU\Desktop\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Users\HP-LIU\Desktop\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\HP-LIU\Desktop\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\HP-LIU\Desktop\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Users\HP-LIU\Desktop\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Users\HP-LIU\Desktop\魅力\魅力\obj\x86\Debug\魅力.pdb
+E:\新建文件夹 (2)\魅力\魅力\bin\Debug\魅力.exe.config
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.exe
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.pdb
+E:\新建文件夹 (2)\魅力\魅力\bin\Debug\魅力.exe
+E:\新建文件夹 (2)\魅力\魅力\bin\Debug\魅力.pdb
+E:\新建文件夹 (2)\魅力\魅力\bin\Debug\DevComponents.DotNetBar2.dll
+E:\新建文件夹 (2)\魅力\魅力\bin\Debug\MyControl.dll
+E:\新建文件夹 (2)\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+E:\新建文件夹 (2)\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.FrmSong.resources
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\项目\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\项目\魅力\魅力\bin\Debug\魅力.exe
+C:\Users\Administrator\Desktop\项目\魅力\魅力\bin\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\项目\魅力\魅力\bin\Debug\MyControl.dll
+C:\Users\Administrator\Desktop\项目\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\项目\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.FrmSong.resources
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\bin\Debug\魅力.exe
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\bin\Debug\魅力.pdb
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\bin\Debug\MyControl.dll
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\魅力.FrmSong.resources
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\项目\项目\魅力\魅力\bin\Debug\魅力.exe.config
+H:\项目\项目\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+H:\项目\项目\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.exe
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.pdb
+H:\项目\项目\魅力\魅力\bin\Debug\魅力.exe
+H:\项目\项目\魅力\魅力\bin\Debug\魅力.pdb
+H:\项目\项目\魅力\魅力\bin\Debug\MyControl.dll
+H:\项目\项目\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+H:\项目\项目\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.FrmSong.resources
+H:\项目\魅力\魅力\bin\Debug\魅力.exe.config
+H:\项目\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+H:\项目\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\项目\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+H:\项目\魅力\魅力\obj\x86\Debug\魅力.exe
+H:\项目\魅力\魅力\obj\x86\Debug\魅力.pdb
+H:\项目\魅力\魅力\bin\Debug\魅力.exe
+H:\项目\魅力\魅力\bin\Debug\魅力.pdb
+H:\项目\魅力\魅力\bin\Debug\MyControl.dll
+H:\项目\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+H:\项目\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+H:\项目\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+H:\项目\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+H:\项目\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+H:\项目\魅力\魅力\obj\x86\Debug\魅力.FrmSong.resources
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.FrmName.resources
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\魅力.FrmName.resources
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.Frmlogin.resources
+C:\Users\Administrator\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.FrmUser.resources
+H:\项目\魅力\魅力\obj\x86\Debug\魅力.Frmlogin.resources
+H:\项目\魅力\魅力\obj\x86\Debug\魅力.FrmName.resources
+H:\项目\魅力\魅力\obj\x86\Debug\魅力.FrmUser.resources
+H:\项目\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\项目\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\项目\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\魅力.Frmlogin.resources
+C:\Documents and Settings\Administrator\桌面\项目\魅力\魅力\obj\x86\Debug\魅力.FrmUser.resources
+C:\Users\toshiba\Desktop\项目\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Users\toshiba\Desktop\项目\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\toshiba\Desktop\项目\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\toshiba\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Users\toshiba\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Users\toshiba\Desktop\项目\魅力\魅力\obj\x86\Debug\魅力.pdb
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.csprojResolveAssemblyReference.cache
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.Frmlogin.resources
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.FrmName.resources
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.FrmUser.resources
+H:\项目\项目\魅力\魅力\obj\x86\Debug\魅力.csproj.GenerateResource.Cache
+H:\项目\魅力最终版\魅力\魅力\bin\Debug\魅力.exe.config
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.exe
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.pdb
+H:\项目\魅力最终版\魅力\魅力\bin\Debug\魅力.exe
+H:\项目\魅力最终版\魅力\魅力\bin\Debug\魅力.pdb
+H:\项目\魅力最终版\魅力\魅力\bin\Debug\MyControl.dll
+H:\项目\魅力最终版\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+H:\项目\魅力最终版\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.Frmlogin.resources
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.FrmName.resources
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.FrmUser.resources
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.FrmSong.resources
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\bin\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\bin\Debug\MyControl.dll
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\bin\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力最终版\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\项目\魅力最终版\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\bin\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\bin\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\bin\Debug\MyControl.dll
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\魅力音乐\魅力最终版\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\bin\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\bin\Debug\MyControl.dll
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\bin\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力V1.0\魅力\魅力\bin\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\bin\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\bin\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\bin\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\bin\Debug\MyControl.dll
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\魅力音乐播放器\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\bin\Debug\魅力.exe
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\bin\Debug\魅力.pdb
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\bin\Debug\Interop.Shell32.dll
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\bin\Debug\MyControl.dll
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\魅力\魅力\魅力\bin\Debug\魅力.exe.config
+H:\魅力\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+H:\魅力\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\魅力\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+H:\魅力\魅力\魅力\obj\x86\Debug\魅力.exe
+H:\魅力\魅力\魅力\obj\x86\Debug\魅力.pdb
+H:\魅力\魅力\魅力\bin\Debug\魅力.exe
+H:\魅力\魅力\魅力\bin\Debug\魅力.pdb
+H:\魅力\魅力\魅力\bin\Debug\Interop.Shell32.dll
+H:\魅力\魅力\魅力\bin\Debug\MyControl.dll
+H:\魅力\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+H:\魅力\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+H:\魅力\魅力\魅力\obj\x86\Debug\魅力.csprojResolveAssemblyReference.cache
+H:\魅力\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+H:\魅力\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+H:\魅力\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+H:\魅力\魅力\魅力\obj\x86\Debug\魅力.csproj.GenerateResource.Cache
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\bin\Debug\魅力.exe
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\bin\Debug\魅力.pdb
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\bin\Debug\Interop.Shell32.dll
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\bin\Debug\MyControl.dll
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.csprojResolveAssemblyReference.cache
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+C:\Users\HP-LIU\Desktop\新建文件夹 (2)\魅力\魅力\obj\x86\Debug\魅力.csproj.GenerateResource.Cache
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\bin\Debug\魅力.exe.config
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\obj\x86\Debug\魅力.csproj.ResolveComReference.cache
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\obj\x86\Debug\魅力.exe
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\obj\x86\Debug\魅力.pdb
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\bin\Debug\魅力.exe
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\bin\Debug\魅力.pdb
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\bin\Debug\Interop.Shell32.dll
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\bin\Debug\MyControl.dll
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\obj\x86\Debug\魅力.csprojResolveAssemblyReference.cache
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\obj\x86\Debug\魅力.FrmLry.resources
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\obj\x86\Debug\魅力.FrmMain.resources
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\obj\x86\Debug\魅力.Properties.Resources.resources
+C:\Users\HP-LIU\Desktop\魅力最新版\魅力\魅力\obj\x86\Debug\魅力.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\魅力V1\魅力\魅力\obj\x86\Debug\魅力.FrmApp.resources
